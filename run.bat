@@ -1,2 +1,2 @@
 
-calabash-android run AppiumDemo.apk
+calabash-android run AppiumDemo.apk --format json --out reports.json
